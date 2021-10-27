@@ -1,0 +1,95 @@
+body {
+background-color: rgb(174, 214, 241 );
+color: black;
+font-family: 'Source Sans Pro', sans-serif;font-weight: bold;
+text-align: justify;
+font-style: italic;
+}
+
+h1{
+color: rgb(31, 97, 141);
+font-family: 'Roboto', sans-serif;;
+font-weight: thin;
+font-size: 40px;
+}
+
+.profile_picture {
+height: 150px;
+border-radius: 50%;
+}
+
+.photo_bateau{
+height: 150px;
+border-radius:50%;
+}
+
+.photo_reunion{
+height: 150px;
+border-radius: 50%;
+}
+
+
+h2{
+color:rgb(51, 210, 96);
+font-size: 25px;
+font-weight: bolder;
+ }
+
+
+a{
+font-family: 'Roboto', sans-serif;;
+text-decoration: none;
+color: blue;
+font-weight: bold;
+ }
+
+
+a:hover {
+text-decoration: none;
+color: red;
+ }
+
+div{
+background: white;
+margin: 30px;
+padding:20px;
+box-shadow: 6px 10px;
+border-radius: 4px;
+}
+
+.container{
+width: 700px;
+margin: 20px auto;
+}
+
+.element{
+background-color: white;
+padding: 40px;
+box-shadow: 0px 10px 30px rgb(0,0,0,0,1);
+border-radius: 4px;
+margin: 20px 0px;
+text-align: center;
+}
+
+.btn-blue {
+background-color: #6B72E1;
+color: white;
+padding: 15px 20px;
+border-radius: 4px;
+}
+
+.btn-blue:hover{
+background-color: black;
+color: white;
+}
+
+
+.list-inline{
+list-style: none;
+padding-left: 0px;
+}
+
+.list-inline li {
+display: inline;
+padding: 10px;
+}
